@@ -4,7 +4,7 @@
 	<groupId>com.cts.cip</groupId>
 	<artifactId>cip-test</artifactId>
 	<name>cip-test</name>
-	<description>cip-test</description>
+	<description>cip-test - Test module for SCM</description>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
