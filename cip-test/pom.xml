@@ -4,7 +4,7 @@
 	<groupId>com.cts.cip</groupId>
 	<artifactId>cip-test</artifactId>
 	<name>cip-test</name>
-	<description>cip-common</description>
+	<description>cip-test</description>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
